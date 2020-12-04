@@ -10,9 +10,6 @@ p{
     color: gray;
     text-shadow: rgba(97, 95, 95, 0.747);
 }
-.card.promos.shadow.mx-auto{
-    border-radius: 30px;
-}
 .promos{
     border-radius: 30px;
 }
